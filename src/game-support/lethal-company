@@ -1,0 +1,8 @@
+# Lethal Company
+
+{{#template ../templates/rating.md status=Gold date=09/04/24 installs=Yes opens=Yes}}
+
+## Notes
+- Switching off of the game causes a crash
+
+{{#template ../templates/steam.md id=1966720}}
